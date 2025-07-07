@@ -1,6 +1,8 @@
 # 📊 E-commerce-Sales-Analysis-Project
+
 ![72688282-increasing-graph-and-sales-word-on-blueprint-background](https://github.com/user-attachments/assets/3390e08d-a094-4604-9c19-74e8962ccdf8)
 
+I recently completed a project that analyzes e-commerce sales data using SQL for backend analysis and Power BI for interactive dashboards. This project helped me explore critical sales metrics and trends that can drive better decision-making for online retailers.
 ## Overview
 
 This project focuses on deriving valuable business insights from an e-commerce dataset using MySQL. It demonstrates the use of SQL for data exploration, analysis, and reporting, and covers customer behavior, product performance, revenue trends, and operational metrics.
